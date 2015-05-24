@@ -71,8 +71,8 @@
 * Notes:
 
 ### Michael Dorrance
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mdorrance/fibber
+* Notes: You can simply run the file and follow the prompts to determine the number of returns.
 
 ### Mike Reeves
 * Project GitHub URL: https://github.com/tsunami719/fibber
