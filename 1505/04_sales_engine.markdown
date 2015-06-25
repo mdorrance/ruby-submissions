@@ -99,7 +99,7 @@ The output from rake sanitation:all shows…
 
 Team: Michael Dorrance & Jerrod Paul Junker
 
-Github Repo:
+Github Repo: https://github.com/mdorrance/sales_engine
 
 Assessed By:
 
